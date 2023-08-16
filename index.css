@@ -1,0 +1,22 @@
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+li {
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+}
+span {
+  width: 35vw;
+}
+button {
+  width: 7.5vw;
+}
